@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="208" height="250" viewBox="152 138 208 250">
+  <title>KyanDB</title>
+  <g fill="#00ACC1">
+    <path fill-rule="evenodd" d="M164 190 208 146H348V287L301 334H164Z M208 186H239V235L278 186H314L266 242 316 302H277L239 254V302H208Z"/>
+    <path d="M164 342H301L348 295V310L301 357H164Z"/>
+    <path d="M164 365H301L348 318V333L301 380H164Z"/>
+  </g>
+</svg>

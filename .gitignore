@@ -1,0 +1,36 @@
+# Binaries and build outputs
+/kyandb
+/kyandb.exe
+/build/
+/.mygo/
+/dist/
+/out/
+mygo_windows_*.syso
+*.exe
+*.dll
+*.so
+*.dylib
+*.app/
+*.dmg
+
+# Go test / coverage artifacts
+*.test
+*.out
+coverage.txt
+
+# Local environment & runtime data
+.env
+.env.*
+*.db
+*.sqlite
+*.sqlite3
+
+# Editor and OS files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+__pycache__/
+*.pyc
